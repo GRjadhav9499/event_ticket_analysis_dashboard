@@ -8,7 +8,7 @@ import streamlit as st
 
 ############################# utils ###################################
 st.set_page_config(
-    page_title="Root Cause Prediction",
+    page_title="Event tickets data analysis",
     page_icon=":chart_with_upwards_trend:",
     layout="wide",  
 )
