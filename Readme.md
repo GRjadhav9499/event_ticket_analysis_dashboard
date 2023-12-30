@@ -1,5 +1,3 @@
-# Event Ticket Analysis Dashboard
-
 # Data Analysis Dashboard for Event Tickets
 
 This dashboard is designed to provide insights into event tickets, leveraging data analysis techniques. Built using Python and Streamlit, the dashboard aims to answer critical questions related to incident management.
